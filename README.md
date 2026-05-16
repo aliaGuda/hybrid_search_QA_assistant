@@ -24,9 +24,10 @@ This project is a question-answering assistant that retrieves and generates resp
 3. Run all cells. It will install dependencies, build indexes, evaluate the models, and show the generated answers.
 
 ### Streamlit UI (Local or Server)
-1. Open your terminal and navigate to the project folder:
+1. Clone the repository and navigate into it:
    ```bash
-   cd path/to/hybrid_search_assistant
+   git clone https://github.com/aliaGuda/hybrid_search_QA_assistant.git
+   cd hybrid_search_QA_assistant
    ```
 2. Create and activate a virtual environment:
    ```bash
